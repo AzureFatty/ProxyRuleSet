@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
